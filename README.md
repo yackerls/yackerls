@@ -55,8 +55,9 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 --> 
 
 ### 👨🏻‍🎓 Certifications 
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e2ab0aeb-c6cc-482f-90fd-729dc80b6016/public_url)
-- [AWS Educate Getting Started with Compute](https://www.credly.com/badges/95280134-fbc6-4ce6-aecd-17ba6f30f5cc/public_url)
+- [NDG Linux Essentials](https://media.licdn.com/dms/image/v2/D4E2DAQEWF2ba6jqZvw/profile-treasury-document-images_480/profile-treasury-document-images_480/1/1731090634532?e=1734566400&v=beta&t=RQsahPJFN7dgbJ9lrJddVxD-G_mZkw2HxHFm0C1zhR0)
+- [Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/c2228e0c-29d8-4d22-ac14-dafa5d806b7e/linked_in_profile/public_url)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/4311f7d4-4d74-4826-945a-d1f4d017b54e/public_url)
 - [AWS Educate Getting Started with Networking](https://www.credly.com/badges/7168fa43-ed79-4b56-8286-e5e0a068fda3/public_url)
 - [AWS Educate Getting Started with Storage](https://www.credly.com/badges/19cc6a16-6bde-43e4-aa4e-6ddbc00e24c3/public_url)
 - [AWS Knowledge: Architecting](https://www.credly.com/badges/6ea8d09d-8824-4286-8b54-5f37bbe9e581/linked_in_profile)
