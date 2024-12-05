@@ -58,11 +58,11 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 - [NDG Linux Essentials](https://media.licdn.com/dms/image/v2/D4E2DAQEWF2ba6jqZvw/profile-treasury-document-images_480/profile-treasury-document-images_480/1/1731090634532?e=1734566400&v=beta&t=RQsahPJFN7dgbJ9lrJddVxD-G_mZkw2HxHFm0C1zhR0)
 - [Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/c2228e0c-29d8-4d22-ac14-dafa5d806b7e/public_url)
 - [Introduction to Cybersecurity](https://www.credly.com/badges/4311f7d4-4d74-4826-945a-d1f4d017b54e/public_url)
-- [Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/c2228e0c-29d8-4d22-ac14-dafa5d806b7e/public_url)
-- [VMware Certified Professional](https://media.licdn.com/dms/image/v2/D4E2DAQFlOcb07gAbrw/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1731091566948?e=1734566400&v=beta&t=NZmRSgias3ckvqNX-JNk-wmEkTduQnJblIR7PyL91F4/public_url)
-- [AWS Knowledge: Architecting](https://www.credly.com/badges/6ea8d09d-8824-4286-8b54-5f37bbe9e581/linked_in_profile)
-- [Certified Administrator for Endpoint Manager Administrator](https://drive.google.com/file/d/1L0t-09Y8M59N4YeX3nDxQ8CABLsrQh31/view)
-- [Certified Administrator for Ivanti Automation](https://drive.google.com/file/d/1wR7r1rx54_fLRMwjg4DowMCYx1AHA5mY/view)
+- [VMware Certified Professional](https://media.licdn.com/dms/image/v2/D4E2DAQFlOcb07gAbrw/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1731091566948?e=1734566400&v=beta&t=NZmRSgias3ckvqNX-JNk-wmEkTduQnJblIR7PyL91F4)
+- [Certified Huawei Storage](https://media.licdn.com/dms/image/v2/D4E2DAQFYGp-pzRvMYg/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1731091779939?e=1734566400&v=beta&t=s2ctRAvHS6kVMskTnU7cDOaWn2EsUavgX6xublXUlp8)
+- [Sophos Central Overview Engineer](https://media.licdn.com/dms/image/v2/D4E2DAQEtX5u_T1a7Zw/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1731096682620?e=1734566400&v=beta&t=O5LdHP52TpgSNDMiF5SXn--uPyBUvsb-bM14L0fQrok)
+- [Certified Administrator HP ProLiant ML and DL Server](https://media.licdn.com/dms/image/v2/D4E2DAQEplr8fR_9Gkg/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1731093493822?e=1734566400&v=beta&t=JUDIVHMUjK8g1s_GcH24j2dz6uAD7GQxSzCz2NNGfHU)
+- [Certified CCNA 3](https://media.licdn.com/dms/image/v2/D4E2DAQFqM6MSNR6jXw/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1731092614496?e=1734566400&v=beta&t=DSybHy856YlFrIE5IqAVxNrhcSdeI0x2XLFFyaa9txU)
 
 ## 🚀Customized App 📦 for DevOps.
 <!-- App:Start -->
