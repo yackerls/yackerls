@@ -74,32 +74,9 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 
 ## 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [🎪DevOps Home LAB with Proxmox 💻 and many more..](https://ibraransari.blogspot.com/2024/01/devops-home-lab-with-proxmox-kubernetes.html)
-- <a href="https://iconflux.com/blog/exploring-novu-notification-power">
-  <img src="https://novu.co/favicon-32x32.png" width="16" height="16" alt="AWS Icon" />
-  Exploring the Power of Open-Source Notification Infrastructure Novu.
-  </a>
-- <a href="https://iconflux.com/blog/aws-cloud-security">
-  <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="16" height="16" alt="AWS Icon" />
-  Protecting Your Cloud Infrastructure Using AWS Security Best Practices.
-  </a>
-- <a href="https://iconflux.com/blog/best-practices-for-aws-cost-optimization"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="16" height="16" alt="AWS Icon" /> AWS - Cost Optimization Best Practices Guide. 
-  </a>
-<!-- BLOG-POST-LIST:END -->
+
 
 ## <a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25" height="20" alt="YouTube Icon" /> Latest Video </a>
-
-<!-- Video:START -->
-- 🌍[How to Setup Pi-hole DNS within 60 seconds | Pi-hole Home Lab DNS Server setup 😊](https://youtu.be/FYuOSGJk7j0)
-- 🚀[How to Setup Ansible playground within 60 Seconds 😊](https://youtu.be/Z_7Iu-APgrY?si=Xe3e3nuB4YbKkS-a)
-- 🔐[How to Setup SFTP Server within 50 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
-- 🔒[How to Setup an FTP Server within 15 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
-- [💻DevOps Home LAB with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://youtu.be/sxfWdb0wwak?si=D49bRKhmJDQ304Ka)
-- [👨🏿‍💻Linux Help Command | Linux Commands for Cloud and DevOps | Become Linux command line Expert.](https://youtu.be/OfNa7tlRGpo)
-<!-- Video:END -->
-
-
 ## 🛠️ Language and Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,jenkins,linux,ubuntu,windows,prometheus,grafana,cloudflare,bash,git,gitlab,github,nginx,rabbitmq,redis,mysql,powershell,py,vscode,vim,regex,postman,obsidian,md&perline=15)](#)
 ---
