@@ -23,9 +23,9 @@ Mantenido: Luis Saravia
 </p>
 
 
-## Más de 12 años de experiencia en roles de Infrastructura, nube y Coordinacion tecnica, con una trayectoria demostrada de trabajo en la industria de servicios y tecnología de la información. 
+## Más de 12 años de experiencia en infraestructura y soporte técnico, con un historial probado de trabajo apasionado por la tecnología, buscando siempre simplificar procesos tanto en empresas como en la vida cotidiana.
 
-### <samp>&gt; Hola soy, Luis Saravia<a href="https://linkedin-abg.pages.dev/" target="_blank">Luis Saravia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hola soy: <a href="https://linkedin-abg.pages.dev/" target="_blank">Luis Saravia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=0C35F7&center=true&vCenter=true&width=435&lines=A+Passionate+Cloud+%26+DevOps+Engineer" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [IConflux Technologies Pvt Ltd](https://iconflux.com/) as **Lead System Administrator (DevOps)**.
