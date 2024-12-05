@@ -28,10 +28,10 @@ Mantenido: Luis Saravia
 ### <samp>&gt; Hola soy: <a href="https://linkedin-abg.pages.dev/" target="_blank">Luis Saravia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F767&width=435&lines=Infra.+,+Cloud+,+Programaci%C3%B3n" alt="Typing SVG" /></a>
 
-- 🔭 Actualmente trabajo en [Grupo Lamfer(http://www.lamfer.com.gt/) como  **administrador principal de sistemas (DevOps)**.
+- 🔭 Actualmente trabajo en [Grupo Lamfer](http://www.lamfer.com.gt/) como  **administrador principal de sistemas (DevOps)**.
 - 🎯 Soy experto en **AWS Cloud, DevOps y automatización de infraestructura**.
 - 👀 Me interesa aprender nuevas herramientas de DevOps y automatización.
-- 🌱 Actualmente estoy aprendiendo (Microsoft Learn Challenge | Ignite Edition: Innovate and secure your migration to Microsoft Azure). <a href="https://learn.microsoft.com/es-es/challenges/22q3c65wo6nmdq?sharingId=6A9F03F25E12DA9E&ref=collection&listId=k70xu782g8xnm4&wt.mc_id=ignitechallenge25_landingpage_wwl"
+- 🌱 Actualmente estoy aprendiendo [Innovate and secure your migration to Microsoft Azure] <a href="https://learn.microsoft.com/es-es/challenges/22q3c65wo6nmdq?sharingId=6A9F03F25E12DA9E&ref=collection&listId=k70xu782g8xnm4&wt.mc_id=ignitechallenge25_landingpage_wwl" width="25"> </samp>
 - 👯 Busca colaborar en mi proyecto de GitHub.
 - 💬 Pregúntame sobre **Cloud DevOps , implementación de infraestructura** **Jenkins, GitLab, Proxmox, Docker, AWS Cloud Operations, AWS Architecture.**
 
