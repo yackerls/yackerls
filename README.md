@@ -80,13 +80,13 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 
 
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
-Currently Working With The Below DevOps & IT Tools:
+Actualmente trabajamos con las siguientes herramientas de TI y DevOps:
 ```markdown
-📌 AWS Certified Solutions Architect – Associate(Certified ✔), 
+✔ Linux Essentials – Associate(Certified ✔), 
 ✔ Cloud - Azure & Google.
 ✔ Orchestration - Swarm & Kubernetes.
 ✔ Containerization - Docker.
-✔ Infrastructure as code tools - Vagrant
+✔ Infrastructure as code tools 
 ✔ CICD - Jenkins, Gitlab CI.
 ✔ OS - Windows(Expert), Linux(Expert)
 ✔ Automation & Scripting Language- Bash, Batch, Python & YAML.
@@ -105,7 +105,7 @@ Currently Working With The Below DevOps & IT Tools:
 ✔ FTP Servers - Serv-U MFT, Cerberus, FileZilla, IIS FTP, VSFTPD and Proftpd.
 ✔ Backup - Shell Script, Batch Script & many tools like: Iperius, Full backup, Incremental backup, Differential backup & Mirror backup.
 ✔ Vulnerability Scan & Patch Management - Ivanti EPM, ZAP Proxy, Metasploit, Wireshark & Nmap.
-✔ Active Directory - Basic
+✔ Active Directory 
 ✔ Documentation/Wiki - WikiJS
 ```
 
