@@ -39,12 +39,12 @@ Mantenido: Luis Saravia
 
 
 ### 💼 Connect with me 👇👇 😊
-- 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
-- ✍ [**Blog**](https://ibraransari.blogspot.com/)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/ansariibrar/)
-- 👨‍💻 [**Github**](https://github.com/meibraransari?tab=repositories)
-- 💬 [**Telegram**](https://t.me/DevOpsinActionTelegram)
-- 🐳 [**Docker**](https://hub.docker.com/u/ibraransaridocker)
+- 🔥 [**Youtube**](https://www.youtube.com/@los-yacker?sub_confirmation=1)
+- ✍ [**Blog**](https://web5.caosbit.site/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/lfsaravia/)
+- 👨‍💻 [**Github**](https://github.com/yackerls?tab=repositories)
+- 💬 [**Telegram**](https://t.me/+mpMp6rliSxJlMGUx)
+- 🐳 [**Docker**](https://hub.docker.com/u/jackerls)
 
 <!--
 ### Support
