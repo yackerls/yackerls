@@ -28,13 +28,12 @@ Mantenido: Luis Saravia
 ### <samp>&gt; Hola soy: <a href="https://linkedin-abg.pages.dev/" target="_blank">Luis Saravia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F767&width=435&lines=Infra.+,+Cloud+,+Programaci%C3%B3n" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on [IConflux Technologies Pvt Ltd](https://iconflux.com/) as **Lead System Administrator (DevOps)**.
-- 🎯 I’m skilled in **AWS Cloud, DevOps & Infrastructure Automation**.
-- 👀 I’m interested to learn new DevOps & Automation Tools.
-- 🌱 I’m currently learning (AWS-SAP-C02).
-- 👯 I’m looking to collaborate on my GitHub project.
-- 💬 Ask me about **Cloud DevOps , Infrastructure design and implementation** **Jenkins, GitLab, Ansible Automation, AWS Cloud Operations, AWS Architecture.**
-
+- 🔭 Actualmente trabajo en [Grupo Lamfer(http://www.lamfer.com.gt/) como  **administrador principal de sistemas (DevOps)**.
+- 🎯 Soy experto en **AWS Cloud, DevOps y automatización de infraestructura**.
+- 👀 Me interesa aprender nuevas herramientas de DevOps y automatización.
+- 🌱 Actualmente estoy aprendiendo (Microsoft Learn Challenge | Ignite Edition: Innovate and secure your migration to Microsoft Azure). <a href="https://learn.microsoft.com/es-es/challenges/22q3c65wo6nmdq?sharingId=6A9F03F25E12DA9E&ref=collection&listId=k70xu782g8xnm4&wt.mc_id=ignitechallenge25_landingpage_wwl"
+- 👯 Busca colaborar en mi proyecto de GitHub.
+- 💬 Pregúntame sobre **Cloud DevOps , implementación de infraestructura** **Jenkins, GitLab, Proxmox, Docker, AWS Cloud Operations, AWS Architecture.**
 
 <img align="right" alt="GIF" src="https://github.com/meibraransari/meibraransari/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
