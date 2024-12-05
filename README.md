@@ -79,13 +79,14 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 ---
 ## <a> <img src="https://cdn.cookielaw.org/logos/5fecd171-297d-4388-9f38-3a4fa08ab47b/0ea96ee0-69c5-405c-ae6e-c1a22657fdb4/15ed9668-1f74-4676-9b74-b2d78c6c0280/ivanti-logo-scarlet.png" width="40" height="28" alt="YouTube Icon" /> Worked with Ivanti </a>
 ```markdown
-📌 Ivanti Unified Endpoint Management. (Certified ✔)
-📌 Ivanti Automation. (Certified ✔)
-✔ Ivanti Data Center Discovery.
-✔ Ivanti Identity Director.
-✔ Ivanti Service Manager.
-✔ Ivanti Asset Manager.
-✔ Ivanti Xtraction.
+📌 VMware. (Certified ✔)
+📌 Sophos Firewall. (Certified ✔)
+✔ Hyper-v, proxmox.
+✔ Cyberseguridad.
+✔ Auditoria de Sistemas.
+✔ Microsoft APPs.
+✔ Cisco.
+✔ Docker, kubernetess, Portainer, Container`s.
 ```
 
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
