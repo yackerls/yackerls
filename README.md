@@ -31,7 +31,7 @@ Mantenido: Luis Saravia
 - 🔭 Actualmente trabajo en [Grupo Lamfer](http://www.lamfer.com.gt/) como  **administrador principal de sistemas (DevOps)**.
 - 🎯 Soy experto en **AWS Cloud, DevOps y automatización de infraestructura**.
 - 👀 Me interesa aprender nuevas herramientas de DevOps y automatización.
-- 🌱 Actualmente estoy aprendiendo [Innovate and secure your migration to Microsoft Azure] <a href="https://learn.microsoft.com/es-es/challenges/22q3c65wo6nmdq?sharingId=6A9F03F25E12DA9E&ref=collection&listId=k70xu782g8xnm4&wt.mc_id=ignitechallenge25_landingpage_wwl" width="25"> </samp>
+- 🌱 Actualmente estoy aprendiendo [Innovate and secure your migration to Microsoft Azure] (https://learn.microsoft.com/es-es/challenges/22q3c65wo6nmdq?sharingId=6A9F03F25E12DA9E&ref=collection&listId=k70xu782g8xnm4&wt.mc_id=ignitechallenge25_landingpage_wwl)
 - 👯 Busca colaborar en mi proyecto de GitHub.
 - 💬 Pregúntame sobre **Cloud DevOps , implementación de infraestructura** **Jenkins, GitLab, Proxmox, Docker, AWS Cloud Operations, AWS Architecture.**
 
