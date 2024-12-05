@@ -111,7 +111,8 @@ Actualmente trabajamos con las siguientes herramientas de TI y DevOps:
 
 ---
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yackerls&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
+<img align="center" src="<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yackerls&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
+" />
 
 
 ---
