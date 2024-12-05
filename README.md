@@ -114,8 +114,9 @@ Actualmente trabajamos con las siguientes herramientas de TI y DevOps:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yackerls&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 </p>
 ---
+
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=yackerls&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://camo.githubusercontent.com/61d6894548c74c43459c8410282d5de88e8b98e6924eeb3993264cb5028e07f9/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d7961636b65726c73267468656d653d68696768636f6e747261737426686964655f626f726465723d7472756526626f726465725f7261646975733d3526636172645f77696474683d383030">
 </p>
 ---
 
