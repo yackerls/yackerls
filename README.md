@@ -1,9 +1,8 @@
 ---
-<p align="center">
+
 Creado: 2020-01-2T21:23:36+05:30
 Actualizado: 2024-12-01T09:59:29+05:30
 Mantenido: Luis Saravia
-</p>
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
