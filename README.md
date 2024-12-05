@@ -66,10 +66,7 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 
 ## 🚀Customized App 📦 for DevOps.
 <!-- App:Start -->
-- [🔥Dotfiles 💪🏽 The power of DevOps Automation Tools.](https://github.com/meibraransari/dotfiles)
-- [🐧Ubuntu SSH Enabled: Best for playground🧪](https://github.com/meibraransari/ubuntu-ssh-enabled)
-- [🔒Turn FTP server within minutes without installation & configuration.](https://github.com/meibraransari/ftp-server)  
-- [🔐SFTP server with key and Password based within seconds..](https://github.com/meibraransari/sftp-server-docker)  
+
 <!-- App:End -->
 
 ## 📕 Latest Blog Posts
