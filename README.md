@@ -1,7 +1,7 @@
 ---
 
-Creado: 2020-01-2T21:23:36+05:30
-Actualizado: 2024-12-01T09:59:29+05:30
+Creado: 2020-08-23T21:23: 5:30
+Actualizado: 2024-12-01T09: 5:30
 Mantenido: Luis Saravia
 ---
 <p align="left"> 
@@ -73,8 +73,8 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 
 
 
-## <a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25" height="20" alt="YouTube Icon" /> Latest Video </a>
-## 🛠️ Language and Tools
+## <a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25" height="20" alt="YouTube Icon" /> Último vídeo </a>
+## 🛠️ Lenguaje y herramientas
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,jenkins,linux,ubuntu,windows,prometheus,grafana,cloudflare,bash,git,gitlab,github,nginx,rabbitmq,redis,mysql,powershell,py,vscode,vim,regex,postman,obsidian,md&perline=15)](#)
 ---
 
