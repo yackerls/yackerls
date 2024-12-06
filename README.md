@@ -1,7 +1,7 @@
 ---
 
-Creado:      20-08-2020T22:17:01+05:30
-Actualizado: 06-12-2024T22:22:51+05:30
+Creado: 20-08-2020T 22:17:01
+Actualizado: 06-12-2024T 22:22:51
 Mantenido: Luis Saravia
 ---
 <p align="left"> 
