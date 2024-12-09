@@ -23,7 +23,7 @@ Mantenido: Luis Saravia
 </p>
 
 
-## Con más de 12 años de experiencia en infraestructura y soporte técnico, tengo un historial comprobado de trabajo, impulsado por mi pasión por la tecnología y el objetivo de simplificar procesos en empresas y en la vida cotidiana.
+Con más de 12 años de experiencia en infraestructura y soporte técnico, tengo un historial comprobado de trabajo, impulsado por mi pasión por la tecnología y el objetivo de simplificar procesos en empresas y en la vida cotidiana.
 
 ### <samp>&gt; Hola soy: <a href="https://linkedin-abg.pages.dev/" target="_blank">Luis Saravia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F767&width=435&lines=Infra.+,+Cloud+,+Programaci%C3%B3n" alt="Typing SVG" /></a>
