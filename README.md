@@ -87,7 +87,7 @@ Actualmente trabajamos con las siguientes herramientas de TI y DevOps:
 ✔ Orchestration - Swarm & Kubernetes.
 ✔ Containerization - Docker.
 ✔ Infrastructure as code tools 
-✔ CICD - Jenkins, Gitlab CI.
+✔ CICD - Gitlab CI.
 ✔ OS - Windows(Expert), Linux(Expert)
 ✔ Automation & Scripting Language- Bash, Batch, Python & YAML.
 ✔ Virtualization - Vmware - Vcenter ESXi, Workstation, Proxmox, XenServer, Virtualbox, Hyper-V.
