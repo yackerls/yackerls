@@ -83,7 +83,7 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 Actualmente trabajamos con las siguientes herramientas de TI y DevOps:
 ```markdown
 ✔ Linux Essentials – Associate(Certified ✔), 
-✔ Cloud - Azure & Google.
+✔ Cloud - AWS & Google.
 ✔ Orchestration - Swarm & Kubernetes.
 ✔ Containerization - Docker.
 ✔ Infrastructure as code tools 
