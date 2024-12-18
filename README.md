@@ -39,7 +39,7 @@ Mantenido: Luis Saravia
 
 
 ### 💼 Conectata conmigo  👇👇 😊
-- 🔥 [**Youtube**](https://www.youtube.com/@yackerls)
+- 🔥 [**Youtube**](https://www.youtube.com/@yacker-ls)
 - ✍ [**Blog**](https://web3.caosbit.site/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/lfsaravia/)
 - 👨‍💻 [**Github**](https://github.com/yackerls?tab=repositories)
