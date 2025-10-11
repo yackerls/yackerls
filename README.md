@@ -29,7 +29,7 @@ Mantenido: Luis Saravia
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F767&width=435&lines=Infra.+,+Cloud+,+Programaci%C3%B3n" alt="Typing SVG" /></a>
 
 - 🔭 Actualmente trabajo en [Grupo Diveco](https://grupo-diveco.com/) como  **Administrador de Servers & Cloud**.
-- 🎯 Soy experto en **AWS Cloud, DevOps y automatización de infraestructura**.
+- 🎯 Me desempeño en AWS Cloud, DevOps y automatización de infraestructura**.
 - 👀 Me interesa aprender nuevas herramientas de DevOps y automatización.
 - 🌱 Actualmente estoy aprendiendo [Innovate and secure your migration to Microsoft Azure](https://learn.microsoft.com/es-es/challenges/22q3c65wo6nmdq?sharingId=6A9F03F25E12DA9E&ref=collection&listId=k70xu782g8xnm4&wt.mc_id=ignitechallenge25_landingpage_wwl)
 - 👯 Busca colaborar en mi proyecto de GitHub.
