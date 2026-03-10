@@ -25,7 +25,7 @@ Mantenido: Luis Saravia
 
 ### Con más de 12 años de experiencia en infraestructura y soporte técnico, tengo un historial comprobado de trabajo, impulsado por mi pasión por la tecnología y el objetivo de simplificar procesos en empresas y en la vida cotidiana.
 
-### <samp>&gt; Hola soy: <a href="https://linkstack.yackers.site/" target="_blank">Luis Saravia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hola soy: <a href="https://www.luissaravia.site/" target="_blank">Luis Saravia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F767&width=435&lines=Infra.+,+Cloud+,+Programaci%C3%B3n" alt="Typing SVG" /></a>
 
 - 🔭 Actualmente trabajo en [Grupo Diveco](https://grupo-diveco.com/) como  **Administrador de Servers & Cloud**.
@@ -64,19 +64,45 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 - [Certified Administrator HP ProLiant ML and DL Server](https://media.licdn.com/dms/image/v2/D4E2DAQEplr8fR_9Gkg/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1731093493822?e=1734566400&v=beta&t=JUDIVHMUjK8g1s_GcH24j2dz6uAD7GQxSzCz2NNGfHU)
 - [Certified CCNA 3](https://media.licdn.com/dms/image/v2/D4E2DAQFqM6MSNR6jXw/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1731092614496?e=1734566400&v=beta&t=DSybHy856YlFrIE5IqAVxNrhcSdeI0x2XLFFyaa9txU)
 
-## 🚀Customized App 📦 for DevOps.
-<!-- App:Start -->
 
 <!-- App:End -->
 
 ## 📕 Últimas publicaciones del blog
 
+ [ **Por qué los mejores modelos de IA no son suficientes para agentes en producción**](https://blog.luissaravia.site/por-que-los-mejores-modelos-de-ia-no-son-suficientes-para-agentes-en-produccion)   
+ 
+
+ 
+ El CEO de LangChain explica cómo la "ingeniería de arneses" es clave para construir agentes de IA confiables y autónomos que funcionen en el mundo real.
+ ##
+
+[ **IA en 2026: 10 tendencias clave y la batalla legal de Anthropic contra el Pentágono 
+9 de marzo de 2026**](https://blog.luissaravia.site/ia-en-2026-10-tendencias-clave-y-la-batalla-legal-de-anthropic-contra-el-pentagono) 
+
+Descubre las 10 tecnologías de IA que están transformando el mundo, los conflictos regulatorios más candentes y por qué el año 2026 es pivotal para la industria tecnológica
+
+##
+
+[ **Project Helix: Cómo Cloudflare simplifica tu viaje hacia Zero Trust**](https://blog.luissaravia.site/project-helix-como-cloudflare-simplifica-tu-viaje-hacia-zero-trust/) 
+
+
+Descubre cómo Project Helix automatiza la configuración de Cloudflare One, eliminando la complejidad de partir desde cero y acelerando la adopción de seguridad Zero Trust en tu organización.
+
+##
+
+[ **Ejecuta OpenClaw de forma segura en Docker Sandboxes con privacidad total**](https://blog.luissaravia.site/ejecuta-openclaw-de-forma-segura-en-docker-sandboxes-con-privacidad-total) 
+
+Descubre cómo ejecutar agentes de IA localmente en entornos aislados usando Docker Sandboxes y Docker Model Runner, sin costos en la nube y con máxima seguridad.
+
+
 
 
 ## <a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25" height="20" alt="YouTube Icon" /> Último vídeo </a>
+
 ## 🛠️ Lenguaje y herramientas
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,jenkins,linux,ubuntu,windows,prometheus,grafana,cloudflare,bash,git,gitlab,github,nginx,rabbitmq,redis,mysql,powershell,py,vscode,vim,regex,postman,obsidian,md&perline=15)](#)
 ---
+
 
 
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
